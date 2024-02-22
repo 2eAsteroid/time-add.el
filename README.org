@@ -1,0 +1,4 @@
+* time-add.el 1.0.0
+I needed a function to calculate the addition of
+two times, so I just wrote it here. If it's bad,
+let me know how I can fix it.
